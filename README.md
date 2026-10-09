@@ -28,4 +28,7 @@ A fun and interactive **Simon Says Memory Game** built using **HTML, CSS, and Ja
 3. Click the buttons in the same order.
 4. Each successful round increases the level.
 5. If you click the wrong button, the game is over.
+6. 
+7. 🌐 Live Demo 
+8. https://ayushkeshari07.github.io/Simon-Says-Memory-Game/
 
